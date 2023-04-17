@@ -19,7 +19,7 @@ https://www.databricks.com/product/databricks-sql
   - Option to be vocoder external (snap to input midi notes)
   - Option to be vocoder internal (snap to selected notes)
   
-  Planned fixes from the Original Pitchmap
+## Planned fixes from the Original Pitchmap
   - Purify knob is not aids when cranked all the way up
   - Doesnt crash computer/ableton due to high cpu usage
  
