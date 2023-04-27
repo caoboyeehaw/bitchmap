@@ -1,6 +1,7 @@
 # Bitchmap
-Basically im trying to do some impossible shit but I can make this work I think.
-It's going to function as an everything-you-ever-needed colorbass pluggin.
+Basically im trying to do some impossible stuff but I can make this work I think.
+It's going to function as an everything-you-ever-needed colorbass pluggin. Its going
+to be developed in mosty Rust
 
 ## Resources
 - Going to see if I can implement this using JUCE
